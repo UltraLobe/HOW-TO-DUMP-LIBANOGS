@@ -1,6 +1,6 @@
 # How-To-Dump-Libanogs
 Perintah Termux
-Termux [Termux apk](https://play.google.com/store/apps/details?id=com.awnto.rnx.rtmx)
+- Termux [Termux apk](https://play.google.com/store/apps/details?id=com.awnto.rnx.rtmx)
 - apt update
 - pkg upgrade
 - apt upgrade radare2
