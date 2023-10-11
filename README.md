@@ -7,3 +7,4 @@ apt upgrade radare2
 cd /sdcard/Dumplibanogs
 r2 -w libanogs.so
 izz ~+ > dumplibanogs.cs
+Tutorial [Tutorial On Yt](https://youtu.be/9PqI96rL1k0?si=TdZ2UCQJ05b0wzc5)
